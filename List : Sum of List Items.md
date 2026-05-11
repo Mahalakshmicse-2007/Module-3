@@ -26,3 +26,4 @@ print("Sum of list items is:", total)
 <img width="445" height="164" alt="image" src="https://github.com/user-attachments/assets/c8d42567-e56c-4bbf-9da7-5489ff590e24" />
 
 ## Result
+The program successfully calculates the sum of all elements in a list using Python’s built-in sum() function.
